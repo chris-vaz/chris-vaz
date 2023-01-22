@@ -11,7 +11,7 @@
 
 - 💼 I'm a full-stack developer with a passion for building new things and being productive. 
 
-- ❤️ Love coding in Javascript and Java!
+- 🧠 Currently learning C# .NET
 
 - 💻 I’m interested in solving challenging problems and building things that help connect people.
 
