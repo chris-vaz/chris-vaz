@@ -11,7 +11,7 @@
 
 - 💼 I'm a full-stack developer with a passion for building new things and being productive. 
 
-- 🧠 Currently learning C# .NET
+- 🧠 Currently learning Vue.js and C# + React
 
 - 💻 I’m interested in solving challenging problems and building things that help connect people.
 
