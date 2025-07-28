@@ -40,8 +40,8 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?&logo=GitHub"></a>
     <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-000?&logo=Amazon AWS"></a>
-    <a href="#"><img alt="Spring Tool Suite" src="https://img.shields.io/badge/Spring Security-000?&logo=Spring security"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
+    <a href="#"><img alt="Spring Tool Suite" src="https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F?logo=spring&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-000?&logo=Socket.io"></a>
