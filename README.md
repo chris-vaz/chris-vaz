@@ -60,7 +60,7 @@ class ChristyVas:
 | **Languages** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,java,cs,dart&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Python, PHP, Java, C#, Dart" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,vuetify,tailwind,bootstrap&theme=dark" alt="React, Next.js, Vue, Nuxt.js, Vuetify, Tailwind CSS, Bootstrap" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,flask,dotnet,nodejs,express,laravel,spring&theme=dark" alt="FastAPI, Flask, ASP.NET, Node.js, Express, Laravel, Spring Boot" /> |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" alt="Flutter, React Native" /> <sub>Flutter · React Native</sub> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" alt="Flutter, React Native" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,mongodb&theme=dark" alt="PostgreSQL, MySQL, Supabase, MongoDB" /> |
 | **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github&theme=dark" alt="AWS, Docker, Vercel, Git, GitHub" /> |
 | **Tools & Design** | <img src="https://skillicons.dev/icons?i=postman,visualstudio,vscode,figma,pr&theme=dark" alt="Postman, Visual Studio, VS Code, Figma, Premiere Pro" /> |
