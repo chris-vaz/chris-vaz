@@ -66,20 +66,6 @@ class ChristyVas:
 | **Tools & Design** | <img src="https://skillicons.dev/icons?i=postman,visualstudio,vscode,figma,pr&theme=dark" alt="Postman, Visual Studio, VS Code, Figma, Premiere Pro" /> |
 
 <sub>Also: SQL · Jinja2 · Socket.IO · MySQL Workbench · Canva · AWS EC2</sub>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=chris-vaz&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=E0434F&icon_color=E0434F&text_color=c0caf5" alt="GitHub stats" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chris-vaz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=E0434F&text_color=c0caf5" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chris-vaz&theme=tokyonight&hide_border=true&background=1a1b27&ring=E0434F&fire=E0434F&currStreakLabel=E0434F" alt="GitHub streak" />
-</p>
-
 ---
 
 ## 📫 Let's Connect
